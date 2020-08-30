@@ -1,8 +1,8 @@
 {
     "info": {
-        "url_png_icon_64x64": "http(s) url to pool icon",
-        "url_png_logo": "http(s) url to pool logo",
-        "location": "London, England",
+        "url_png_icon_64x64": "",
+        "url_png_logo": "",
+        "location": "London, UK",
         "social": {
             "twitter_handle": "IoYasp",
             "telegram_handle": "yaspio_admin",
@@ -16,7 +16,7 @@
             "name": "Y-DEV LTD.",
             "addr": "International House, 64 Nile Street, N1 7SR",
             "city": "London",
-            "country": "England",
+            "country": "UK",
             "company_id": "07876838",
             "vat_id": "126215738"
         },
