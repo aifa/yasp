@@ -2,5 +2,6 @@
 "name": "YASP",
 "description": "Yet Another Stake Pool",
 "ticker": "YASP1",
-"homepage": "https://yasp.io/"
+"homepage": "https://yasp.io/",
+"extended": "https://github.com/aifa/yasp/blob/master/extended_info.json"
 }
