@@ -22,7 +22,7 @@
         },
         "about": {
             "me": "",
-            "server": "Relays and BP node all running on dedicated servers on AWS",
+            "server": "Relays and BP nodes running on dedicated servers on AWS",
             "company": "..."
         },
         "rss": ""
