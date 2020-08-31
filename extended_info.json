@@ -14,11 +14,11 @@
             "vat_id": "126215738"
         },
         "about": {
-            "me": "I am Antonis, a software engineer. I have been developing, deploying, maintaining and managing large production systems for the last 15 years.\
-             Cardano's research, development and applied methodologies have sparked my interest since 2016, and I have been following ever since.\
+            "me": "I am Antonis, a software engineer. I have been developing, deploying, maintaining and managing large production systems for the last 15 years.\n
+             Cardano's research, development and applied methodologies have sparked my interest since 2016, and I have been following ever since.\n
              This pool is a first step in getting involved and contributing to this project and its community.",
             "server": "Relays and BP nodes running on dedicated servers on AWS",
-            "company": "Y-DEV was founded late 2011, as a personal company to work on software development contracts. \
+            "company": "Y-DEV was founded late 2011, as a personal company to work on software development contracts. \n
              The renewed vision is to grow and evolve around the Cardano ecosystem and community, with a focus on smart contract development."
         }
     },
