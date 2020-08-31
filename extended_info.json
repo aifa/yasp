@@ -23,15 +23,11 @@
         "about": {
             "me": "",
             "server": "Relays and BP nodes running on dedicated servers on AWS",
-            "company": "..."
-        },
-        "rss": ""
+            "company": "Y-DEV was founded late 2011, as a personal company to work on software development."
+        }
     },
     "my-pool-ids": {
         "0": "c9ee494fe00ee83f3b3419496d4df6e5dfff24ae53424f86fae564b8"
-    },
-    "when-satured-then-recommend": {
-        "0": "",
     },
     "telegram-admin-handle": {
         "0": "yaspio_admin"
