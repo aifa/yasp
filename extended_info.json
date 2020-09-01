@@ -23,7 +23,7 @@
         "about": {
             "me": "I am Antonis, a software engineer. I have been developing, deploying, maintaining and managing large production systems for the last 15 years. Cardano's research, development and applied methodologies have sparked my interest since 2016. This pool is a first step in getting involved and contributing to this project and its community.",
             "server": "Relays and BP nodes running on dedicated servers on AWS",
-            "company": "Y-DEV LTD. was founded late 2011, as a personal software development company. The renewed vision is to work and evolve within the Cardano ecosystem and community, with a focus on stake pool opearations and smart contract development."
+            "company": "Y-DEV LTD. was founded late 2011, as a personal software development company. The renewed vision is to work and evolve within the Cardano ecosystem and community, with a focus on stake pool operations and smart contract development."
         }
     },
     "my-pool-ids": {
