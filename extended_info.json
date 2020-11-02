@@ -4,8 +4,8 @@
         "url_png_logo": "",
         "location": "London, UK",
         "social": {
-            "twitter_handle": "IoYasp",
-            "telegram_handle": "yasp_io",
+            "twitter_handle": "cortexpool_io",
+            "telegram_handle": "cortexpool_io",
             "facebook_handle": "",
             "youtube_handle": "",
             "twitch_handle": "",
@@ -33,6 +33,6 @@
         "0": ""
     },
     "telegram-admin-handle": {
-        "0": "ydev1_admin"
+        "0": "cortexpool_admin"
     }
 }
