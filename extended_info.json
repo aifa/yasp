@@ -13,16 +13,16 @@
             "github_handle": ""
         },
         "company": {
-            "name": "Y-DEV LTD.",
-            "addr": "International House, 64 Nile Street, N1 7SR",
-            "city": "London",
-            "country": "UK",
-            "company_id": "07876838",
-            "vat_id": "126215738"
+            "name": "",
+            "addr": "",
+            "city": "",
+            "country": "",
+            "company_id": "",
+            "vat_id": ""
         },
         "about": {
-            "me": "I am Antonis, a software engineer. I have been developing, deploying, maintaining and managing large production systems for the last 15 years. Cardano's research, development and applied methodologies have sparked my interest since 2016.",
-            "server": "Relays and BP nodes running on dedicated servers on AWS.",
+            "me": "",
+            "server": "6 Linux servers running on Amazon Web services dedicated to host one Cardano node each, Specs: 100GB SSD, 8GB of RAM (expandable if required) and 5Gbps lines. 4 relay nodes that are geographically spread, and 1 BP node with redudancy.",
             "company": ""
         }
     },
