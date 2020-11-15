@@ -21,8 +21,8 @@
             "vat_id": ""
         },
         "about": {
-            "me": "15 years of experience in software engineering and system architecture, combined with passion about decentralised systems and blockchain technology",
-            "server": "6 Linux servers running on Amazon Web services dedicated to host one Cardano node each, Specs: 100GB SSD, 8GB of RAM (expandable if required) and 5Gbps lines. 4 relay nodes that are geographically spread, and 1 BP node with redudancy.",
+            "me": "",
+            "server": "6 Linux servers running on Amazon Web services, each one hosting one Cardano node. Specs: 100GB SSD, 8GB of RAM, and 5Gbps network bandwidth. 4 relay nodes that are geographically spread, and 1 BP node with redudancy.",
             "company": ""
         }
     },
