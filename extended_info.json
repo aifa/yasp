@@ -22,7 +22,7 @@
         },
         "about": {
             "me": "A software engineer based in the Netherlands. A software company based in the UK.",
-            "server": "6 Linux servers running on Amazon Web services, each one hosting one Cardano node. Specs: 100GB SSD, 8GB of RAM, and 5Gbps network bandwidth. 4 relay nodes that are geographically spread, and 1 BP node with redudancy.",
+            "server": "6 Linux servers running on Amazon Web services, each one hosting one Cardano node. Specs: 100GB SSD, 8GB of RAM, and 5Gbps network bandwidth. 4 relay nodes that are geographically spread, and 1 BP node with a backup on a diferrent location.",
             "company": ""
         }
     },
