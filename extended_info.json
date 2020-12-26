@@ -22,7 +22,7 @@
         },
         "about": {
             "me": "",
-            "server": "Main node running on a bare metal server powered by renewable energy. 2 relays on Linux servers running on AWS, each hosting a single Cardano node. Specs: 100GB SSD, 8GB of RAM, and 5Gbps network bandwidth.1 backup server on the cloud.",
+            "server": "Main node running on a bare metal server powered by renewable energy. 2 relays hosted on the Amazon cloud.",
             "company": ""
         }
     },
